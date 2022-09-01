@@ -21,7 +21,7 @@ const CardSmall = styled.TouchableOpacity`
     height :60px;
     background : #FFF;
     border-radius: 8px
-    margin-bottom:5px;
+    margin-bottom:6px;
     margin-top:5px;
     padding: 15px;
 `;
